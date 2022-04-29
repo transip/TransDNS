@@ -1,0 +1,16 @@
+# XCode backup files
+._*
+
+# Mac shizzle
+.DS_Store
+
+# Build libs
+*.o
+*.plist
+
+# Valgrind core
+vgcore.*
+
+# Final binary
+transdns
+timegmtest
