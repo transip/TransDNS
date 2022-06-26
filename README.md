@@ -8,8 +8,10 @@ Add the end it was hosting the DNS for over 1 million domains with more than 30 
 
 ## Authors
 Original code by Ali Niknam.
-Extended with DNSSEC by Johan Schuijt and Andreas Verhoeven
-Bugfixed and improved by Robin Geuze, Wouter Entius and Dion Bosschieter
+
+Extended with DNSSEC by Johan Schuijt and Andreas Verhoeven.
+
+Bugfixed and improved by Robin Geuze, Wouter Entius and Dion Bosschieter.
 
 ## How to build
 Building is mostly just GNU make, but you need clang as well as the openssl and mysql libraries and header files.
