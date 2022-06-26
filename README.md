@@ -6,6 +6,11 @@ This software was used by TransIP to serve its customers DNS records starting in
 
 Add the end it was hosting the DNS for over 1 million domains with more than 30 million records, which included roughly 10% of all .nl domains. The main reason for switching away from it was that there was only one person maintaining it, not that there were any significant issues with the software as is. Due to the relative simplicity the software is really optimised and can probably out perform most modern DNS implementations.
 
+## Authors
+Original code by Ali Niknam.
+Extended with DNSSEC by Johan Schuijt and Andreas Verhoeven
+Bugfixed and improved by Robin Geuze, Wouter Entius and Dion Bosschieter
+
 ## How to build
 Building is mostly just GNU make, but you need clang as well as the openssl and mysql libraries and header files.
 
